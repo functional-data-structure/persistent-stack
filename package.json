@@ -75,7 +75,10 @@
   "bugs": {
     "url": "https://github.com/aureooms/js-persistent-stack/issues"
   },
-  "dependencies": {},
+  "dependencies": {
+    "@aureooms/js-error": "^4.0.1",
+    "@aureooms/js-itertools": "^4.1.0"
+  },
   "devDependencies": {
     "@babel/cli": "7.11.6",
     "@babel/core": "7.11.6",
@@ -101,7 +104,12 @@
     "lib"
   ],
   "homepage": "https://aureooms.github.io/js-persistent-stack",
-  "keywords": ["data", "persistent", "stack", "structures"],
+  "keywords": [
+    "data",
+    "persistent",
+    "stack",
+    "structures"
+  ],
   "license": "AGPL-3.0",
   "main": "lib/index.js",
   "prettier": {
@@ -133,12 +141,7 @@
       "unicorn"
     ],
     "rules": {
-      "unicorn/filename-case": [
-        "error",
-        {
-          "case": "camelCase"
-        }
-      ]
+      "unicorn/filename-case": "off"
     }
   }
 }
