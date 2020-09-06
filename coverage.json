@@ -1,0 +1,56 @@
+{
+  "coverage": "0%",
+  "expectCount": 25,
+  "actualCount": 0,
+  "files": {
+    "src/DONE_ITERATOR.js": {
+      "expectCount": 2,
+      "actualCount": 0,
+      "undocumentLines": [
+        1,
+        2
+      ]
+    },
+    "src/index.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        8
+      ]
+    },
+    "src/withMethods.js": {
+      "expectCount": 12,
+      "actualCount": 0,
+      "undocumentLines": [
+        4,
+        5,
+        9,
+        17,
+        20,
+        24,
+        28,
+        32,
+        38,
+        42,
+        46,
+        50
+      ]
+    },
+    "src/withoutMethods.js": {
+      "expectCount": 10,
+      "actualCount": 0,
+      "undocumentLines": [
+        4,
+        9,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        26
+      ]
+    }
+  }
+}

@@ -1,0 +1,1268 @@
+[
+  {
+    "__docId__": 1,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 2,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 3,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 4,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~null",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 5,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 6,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 7,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 8,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 9,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 10,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 11,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 12,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 13,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 18,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 19,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 20,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 21,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 22,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 23,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~String",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 24,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~string",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 25,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 26,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 27,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 28,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 29,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 30,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 31,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 32,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 33,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 34,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 35,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 36,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 37,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 39,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 40,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 41,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 42,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 43,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 44,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 45,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 46,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 47,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 48,
+    "kind": "file",
+    "name": "src/DONE_ITERATOR.js",
+    "content": "function* _emptyGenerator() {}\nconst DONE_ITERATOR = _emptyGenerator();\nexport default DONE_ITERATOR;\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-persistent-stack/src/DONE_ITERATOR.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 49,
+    "kind": "function",
+    "name": "_emptyGenerator",
+    "memberof": "src/DONE_ITERATOR.js",
+    "generator": true,
+    "async": false,
+    "static": true,
+    "longname": "src/DONE_ITERATOR.js~_emptyGenerator",
+    "access": "private",
+    "export": false,
+    "importPath": "@aureooms/js-persistent-stack/src/DONE_ITERATOR.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [],
+    "return": null,
+    "ignore": true
+  },
+  {
+    "__docId__": 50,
+    "kind": "variable",
+    "name": "DONE_ITERATOR",
+    "memberof": "src/DONE_ITERATOR.js",
+    "static": true,
+    "longname": "src/DONE_ITERATOR.js~DONE_ITERATOR",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-persistent-stack/src/DONE_ITERATOR.js",
+    "importStyle": "DONE_ITERATOR",
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 51,
+    "kind": "file",
+    "name": "src/index.js",
+    "content": "import DONE_ITERATOR from './DONE_ITERATOR';\nimport withMethods from './withMethods';\nimport withoutMethods from './withoutMethods';\n\n/* eslint import/no-anonymous-default-export: [2, {\"allowObject\": true}] */\nexport default withoutMethods;\n\nconst {empty, from, isEmpty, push, peek, pop, iter} = withoutMethods;\n\nexport {\n\tDONE_ITERATOR,\n\twithMethods,\n\twithoutMethods,\n\tempty,\n\tfrom,\n\tisEmpty,\n\tpush,\n\tpeek,\n\tpop,\n\titer,\n};\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-persistent-stack/src/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 52,
+    "kind": "variable",
+    "name": "empty",
+    "memberof": "src/index.js",
+    "static": true,
+    "longname": "src/index.js~empty",
+    "access": "public",
+    "export": false,
+    "importPath": "@aureooms/js-persistent-stack/src/index.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 8,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 53,
+    "kind": "file",
+    "name": "src/withMethods.js",
+    "content": "import {TypeError} from '@aureooms/js-error';\nimport {_reduce} from '@aureooms/js-itertools';\n\nexport default function PersistentStack() {}\nPersistentStack.prototype.push = function (value) {\n\treturn new Pushed(value, this);\n};\n\nPersistentStack.prototype[Symbol.iterator] = function* () {\n\tlet current = this;\n\twhile (!current.isEmpty()) {\n\t\tyield current.peek();\n\t\tcurrent = current.pop();\n\t}\n};\n\nfunction Empty() {}\nEmpty.prototype = new PersistentStack();\n\nEmpty.prototype.isEmpty = function () {\n\treturn true;\n};\n\nEmpty.prototype.pop = function () {\n\tthrow new TypeError('Cannot call pop on empty stack.');\n};\n\nEmpty.prototype.peek = function () {\n\tthrow new TypeError('Cannot call peek on empty stack.');\n};\n\nfunction Pushed(value, next) {\n\tthis.value = value;\n\tthis.next = next;\n}\n\nPushed.prototype = new PersistentStack();\nPushed.prototype.isEmpty = function () {\n\treturn false;\n};\n\nPushed.prototype.pop = function () {\n\treturn this.next;\n};\n\nPushed.prototype.peek = function () {\n\treturn this.value;\n};\n\nconst EMPTY = new Empty();\nPersistentStack.empty = () => EMPTY;\nPersistentStack.push = (stack, value) => new Pushed(value, stack);\nPersistentStack.isEmpty = (stack) => stack.isEmpty();\nPersistentStack.pop = (stack) => stack.pop();\nPersistentStack.peek = (stack) => stack.peek();\nPersistentStack.iter = (stack) => stack[Symbol.iterator]();\nPersistentStack.from = (iterable) =>\n\t_reduce(PersistentStack.push, iterable, EMPTY);\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-persistent-stack/src/withMethods.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 54,
+    "kind": "function",
+    "name": "PersistentStack",
+    "memberof": "src/withMethods.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/withMethods.js~PersistentStack",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-persistent-stack/src/withMethods.js",
+    "importStyle": "PersistentStack",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 55,
+    "kind": "function",
+    "name": "push",
+    "memberof": "src/withMethods.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/withMethods.js~push",
+    "access": "public",
+    "export": false,
+    "importPath": "@aureooms/js-persistent-stack/src/withMethods.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "params": [
+      {
+        "name": "value",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 56,
+    "kind": "function",
+    "name": "[Symbol.iterator]",
+    "memberof": "src/withMethods.js",
+    "generator": true,
+    "async": false,
+    "static": true,
+    "longname": "src/withMethods.js~[Symbol.iterator]",
+    "access": "public",
+    "export": false,
+    "importPath": "@aureooms/js-persistent-stack/src/withMethods.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 9,
+    "undocument": true,
+    "params": [],
+    "return": null,
+    "ignore": true
+  },
+  {
+    "__docId__": 57,
+    "kind": "function",
+    "name": "Empty",
+    "memberof": "src/withMethods.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/withMethods.js~Empty",
+    "access": "public",
+    "export": false,
+    "importPath": "@aureooms/js-persistent-stack/src/withMethods.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 17,
+    "undocument": true,
+    "params": [],
+    "return": null,
+    "ignore": true
+  },
+  {
+    "__docId__": 58,
+    "kind": "function",
+    "name": "isEmpty",
+    "memberof": "src/withMethods.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/withMethods.js~isEmpty",
+    "access": "public",
+    "export": false,
+    "importPath": "@aureooms/js-persistent-stack/src/withMethods.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 20,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "boolean"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 59,
+    "kind": "function",
+    "name": "pop",
+    "memberof": "src/withMethods.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/withMethods.js~pop",
+    "access": "public",
+    "export": false,
+    "importPath": "@aureooms/js-persistent-stack/src/withMethods.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 24,
+    "undocument": true,
+    "params": [],
+    "return": null,
+    "ignore": true
+  },
+  {
+    "__docId__": 60,
+    "kind": "function",
+    "name": "peek",
+    "memberof": "src/withMethods.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/withMethods.js~peek",
+    "access": "public",
+    "export": false,
+    "importPath": "@aureooms/js-persistent-stack/src/withMethods.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 28,
+    "undocument": true,
+    "params": [],
+    "return": null,
+    "ignore": true
+  },
+  {
+    "__docId__": 61,
+    "kind": "function",
+    "name": "Pushed",
+    "memberof": "src/withMethods.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/withMethods.js~Pushed",
+    "access": "public",
+    "export": false,
+    "importPath": "@aureooms/js-persistent-stack/src/withMethods.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 32,
+    "undocument": true,
+    "params": [
+      {
+        "name": "value",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "next",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null,
+    "ignore": true
+  },
+  {
+    "__docId__": 62,
+    "kind": "function",
+    "name": "isEmpty",
+    "memberof": "src/withMethods.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/withMethods.js~isEmpty",
+    "access": "public",
+    "export": false,
+    "importPath": "@aureooms/js-persistent-stack/src/withMethods.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 38,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "boolean"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 63,
+    "kind": "function",
+    "name": "pop",
+    "memberof": "src/withMethods.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/withMethods.js~pop",
+    "access": "public",
+    "export": false,
+    "importPath": "@aureooms/js-persistent-stack/src/withMethods.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 42,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 64,
+    "kind": "function",
+    "name": "peek",
+    "memberof": "src/withMethods.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/withMethods.js~peek",
+    "access": "public",
+    "export": false,
+    "importPath": "@aureooms/js-persistent-stack/src/withMethods.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 46,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 65,
+    "kind": "variable",
+    "name": "EMPTY",
+    "memberof": "src/withMethods.js",
+    "static": true,
+    "longname": "src/withMethods.js~EMPTY",
+    "access": "public",
+    "export": false,
+    "importPath": "@aureooms/js-persistent-stack/src/withMethods.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 50,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 66,
+    "kind": "file",
+    "name": "src/withoutMethods.js",
+    "content": "import {_reduce} from '@aureooms/js-itertools';\nimport DONE_ITERATOR from './DONE_ITERATOR';\n\nfunction Node(value, next) {\n\tthis.value = value;\n\tthis.next = next;\n}\n\nNode.prototype[Symbol.iterator] = function* () {\n\tlet current = this;\n\twhile (current !== null) {\n\t\tyield current.value;\n\t\tcurrent = current.next;\n\t}\n};\n\nconst empty = () => null;\nconst from = (iterable) => _reduce(push, iterable, null);\nconst isEmpty = (stack) => stack === null;\nconst push = (stack, value) => new Node(value, stack);\nconst pop = (stack) => stack.next;\nconst peek = (stack) => stack.value;\nconst iter = (stack) =>\n\tstack === null ? DONE_ITERATOR : stack[Symbol.iterator]();\n\nconst withoutMethods = {\n\tname: 'withoutMethods',\n\tempty,\n\tfrom,\n\tisEmpty,\n\tpush,\n\tpop,\n\tpeek,\n\titer,\n};\n\nexport default withoutMethods;\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-persistent-stack/src/withoutMethods.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 67,
+    "kind": "function",
+    "name": "Node",
+    "memberof": "src/withoutMethods.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/withoutMethods.js~Node",
+    "access": "public",
+    "export": false,
+    "importPath": "@aureooms/js-persistent-stack/src/withoutMethods.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "params": [
+      {
+        "name": "value",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "next",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null,
+    "ignore": true
+  },
+  {
+    "__docId__": 68,
+    "kind": "function",
+    "name": "[Symbol.iterator]",
+    "memberof": "src/withoutMethods.js",
+    "generator": true,
+    "async": false,
+    "static": true,
+    "longname": "src/withoutMethods.js~[Symbol.iterator]",
+    "access": "public",
+    "export": false,
+    "importPath": "@aureooms/js-persistent-stack/src/withoutMethods.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 9,
+    "undocument": true,
+    "params": [],
+    "return": null,
+    "ignore": true
+  },
+  {
+    "__docId__": 69,
+    "kind": "function",
+    "name": "empty",
+    "memberof": "src/withoutMethods.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/withoutMethods.js~empty",
+    "access": "public",
+    "export": false,
+    "importPath": "@aureooms/js-persistent-stack/src/withoutMethods.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 17,
+    "undocument": true,
+    "params": [],
+    "return": null,
+    "ignore": true
+  },
+  {
+    "__docId__": 70,
+    "kind": "function",
+    "name": "from",
+    "memberof": "src/withoutMethods.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/withoutMethods.js~from",
+    "access": "public",
+    "export": false,
+    "importPath": "@aureooms/js-persistent-stack/src/withoutMethods.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 18,
+    "undocument": true,
+    "params": [
+      {
+        "name": "iterable",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null,
+    "ignore": true
+  },
+  {
+    "__docId__": 71,
+    "kind": "function",
+    "name": "isEmpty",
+    "memberof": "src/withoutMethods.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/withoutMethods.js~isEmpty",
+    "access": "public",
+    "export": false,
+    "importPath": "@aureooms/js-persistent-stack/src/withoutMethods.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 19,
+    "undocument": true,
+    "params": [
+      {
+        "name": "stack",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null,
+    "ignore": true
+  },
+  {
+    "__docId__": 72,
+    "kind": "function",
+    "name": "push",
+    "memberof": "src/withoutMethods.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/withoutMethods.js~push",
+    "access": "public",
+    "export": false,
+    "importPath": "@aureooms/js-persistent-stack/src/withoutMethods.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 20,
+    "undocument": true,
+    "params": [
+      {
+        "name": "stack",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "value",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null,
+    "ignore": true
+  },
+  {
+    "__docId__": 73,
+    "kind": "function",
+    "name": "pop",
+    "memberof": "src/withoutMethods.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/withoutMethods.js~pop",
+    "access": "public",
+    "export": false,
+    "importPath": "@aureooms/js-persistent-stack/src/withoutMethods.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 21,
+    "undocument": true,
+    "params": [
+      {
+        "name": "stack",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null,
+    "ignore": true
+  },
+  {
+    "__docId__": 74,
+    "kind": "function",
+    "name": "peek",
+    "memberof": "src/withoutMethods.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/withoutMethods.js~peek",
+    "access": "public",
+    "export": false,
+    "importPath": "@aureooms/js-persistent-stack/src/withoutMethods.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 22,
+    "undocument": true,
+    "params": [
+      {
+        "name": "stack",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null,
+    "ignore": true
+  },
+  {
+    "__docId__": 75,
+    "kind": "function",
+    "name": "iter",
+    "memberof": "src/withoutMethods.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/withoutMethods.js~iter",
+    "access": "public",
+    "export": false,
+    "importPath": "@aureooms/js-persistent-stack/src/withoutMethods.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 23,
+    "undocument": true,
+    "params": [
+      {
+        "name": "stack",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null,
+    "ignore": true
+  },
+  {
+    "__docId__": 76,
+    "kind": "variable",
+    "name": "withoutMethods",
+    "memberof": "src/withoutMethods.js",
+    "static": true,
+    "longname": "src/withoutMethods.js~withoutMethods",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-persistent-stack/src/withoutMethods.js",
+    "importStyle": "withoutMethods",
+    "description": null,
+    "lineNumber": 26,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"name\": string, \"empty\": *, \"from\": *, \"isEmpty\": *, \"push\": *, \"pop\": *, \"peek\": *, \"iter\": *}"
+      ]
+    }
+  },
+  {
+    "kind": "index",
+    "content": "[@aureooms/js-persistent-stack](https://aureooms.github.io/js-persistent-stack)\n==\n\nPersistent stack data structures for JavaScript.\nSee [docs](https://aureooms.github.io/js-persistent-stack/index.html).\n\n> :warning: The code requires `regeneratorRuntime` to be defined, for instance by importing\n> [regenerator-runtime/runtime](https://www.npmjs.com/package/regenerator-runtime).\n\n```js\nimport {empty, from, isEmpty, push, pop, peek, iter} from '@aureooms/js-persistent-stack';\nlet stack = from('abc');\nlet values = [...iter(stack)].join(''); // cba\n...\n```\n\n[![License](https://img.shields.io/github/license/aureooms/js-persistent-stack.svg)](https://raw.githubusercontent.com/aureooms/js-persistent-stack/master/LICENSE)\n[![Version](https://img.shields.io/npm/v/@aureooms/js-persistent-stack.svg)](https://www.npmjs.org/package/@aureooms/js-persistent-stack)\n[![Build](https://img.shields.io/travis/aureooms/js-persistent-stack/master.svg)](https://travis-ci.org/aureooms/js-persistent-stack/branches)\n[![Dependencies](https://img.shields.io/david/aureooms/js-persistent-stack.svg)](https://david-dm.org/aureooms/js-persistent-stack)\n[![Dev dependencies](https://img.shields.io/david/dev/aureooms/js-persistent-stack.svg)](https://david-dm.org/aureooms/js-persistent-stack?type=dev)\n[![GitHub issues](https://img.shields.io/github/issues/aureooms/js-persistent-stack.svg)](https://github.com/aureooms/js-persistent-stack/issues)\n[![Downloads](https://img.shields.io/npm/dm/@aureooms/js-persistent-stack.svg)](https://www.npmjs.org/package/@aureooms/js-persistent-stack)\n\n[![Code issues](https://img.shields.io/codeclimate/issues/aureooms/js-persistent-stack.svg)](https://codeclimate.com/github/aureooms/js-persistent-stack/issues)\n[![Code maintainability](https://img.shields.io/codeclimate/maintainability/aureooms/js-persistent-stack.svg)](https://codeclimate.com/github/aureooms/js-persistent-stack/trends/churn)\n[![Code coverage (cov)](https://img.shields.io/codecov/c/gh/aureooms/js-persistent-stack/master.svg)](https://codecov.io/gh/aureooms/js-persistent-stack)\n<!--[![Code coverage (alls)](https://img.shields.io/coveralls/github/aureooms/js-persistent-stack/master.svg)](https://coveralls.io/r/aureooms/js-persistent-stack)-->\n<!--[![Code coverage (clim)](https://img.shields.io/codeclimate/coverage/aureooms/js-persistent-stack.svg)](https://codeclimate.com/github/aureooms/js-persistent-stack/trends/test_coverage_new_code)-->\n[![Code technical debt](https://img.shields.io/codeclimate/tech-debt/aureooms/js-persistent-stack.svg)](https://codeclimate.com/github/aureooms/js-persistent-stack/trends/technical_debt)\n[![Documentation](https://aureooms.github.io/js-persistent-stack/badge.svg)](https://aureooms.github.io/js-persistent-stack/source.html)\n[![Package size](https://img.shields.io/bundlephobia/minzip/@aureooms/js-persistent-stack)](https://bundlephobia.com/result?p=@aureooms/js-persistent-stack)\n",
+    "longname": "/home/aureooms/dev/js/js-persistent-stack/README.md",
+    "name": "./README.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "packageJSON",
+    "content": "{\n  \"name\": \"@aureooms/js-persistent-stack\",\n  \"description\": \"Persistent stack data structures for JavaScript\",\n  \"version\": \"0.0.0\",\n  \"author\": \"aureooms\",\n  \"ava\": {\n    \"files\": [\n      \"test/src/**/*\"\n    ],\n    \"require\": [\n      \"regenerator-runtime/runtime\",\n      \"@babel/register\"\n    ],\n    \"timeout\": \"1m\"\n  },\n  \"babel\": {\n    \"presets\": [\n      \"@babel/preset-env\"\n    ],\n    \"env\": {\n      \"test\": {\n        \"presets\": [\n          \"babel-preset-power-assert\"\n        ],\n        \"plugins\": [\n          [\n            \"transform-remove-console\",\n            {\n              \"exclude\": [\n                \"log\",\n                \"error\",\n                \"warn\"\n              ]\n            }\n          ]\n        ],\n        \"sourceMaps\": \"inline\"\n      },\n      \"development\": {\n        \"presets\": [\n          \"babel-preset-power-assert\"\n        ],\n        \"plugins\": [\n          [\n            \"transform-remove-console\",\n            {\n              \"exclude\": [\n                \"log\",\n                \"error\",\n                \"warn\"\n              ]\n            }\n          ]\n        ],\n        \"sourceMaps\": \"inline\"\n      },\n      \"production\": {\n        \"plugins\": [\n          \"babel-plugin-unassert\",\n          [\n            \"transform-remove-console\",\n            {\n              \"exclude\": [\n                \"log\",\n                \"error\",\n                \"warn\"\n              ]\n            }\n          ]\n        ],\n        \"sourceMaps\": \"inline\"\n      }\n    }\n  },\n  \"bugs\": {\n    \"url\": \"https://github.com/aureooms/js-persistent-stack/issues\"\n  },\n  \"dependencies\": {\n    \"@aureooms/js-error\": \"^4.0.1\",\n    \"@aureooms/js-itertools\": \"^4.1.0\"\n  },\n  \"devDependencies\": {\n    \"@babel/cli\": \"7.11.6\",\n    \"@babel/core\": \"7.11.6\",\n    \"@babel/preset-env\": \"7.11.5\",\n    \"@babel/register\": \"7.11.5\",\n    \"ava\": \"3.12.1\",\n    \"babel-plugin-transform-remove-console\": \"6.9.4\",\n    \"babel-plugin-unassert\": \"3.0.1\",\n    \"babel-preset-power-assert\": \"3.0.0\",\n    \"coveralls\": \"3.1.0\",\n    \"esdoc\": \"1.1.0\",\n    \"esdoc-ecmascript-proposal-plugin\": \"1.0.0\",\n    \"esdoc-inject-script-plugin\": \"1.0.0\",\n    \"esdoc-inject-style-plugin\": \"1.0.0\",\n    \"esdoc-standard-plugin\": \"1.0.0\",\n    \"np\": \"6.5.0\",\n    \"nyc\": \"15.1.0\",\n    \"power-assert\": \"1.6.1\",\n    \"regenerator-runtime\": \"0.13.7\",\n    \"xo\": \"0.33.1\"\n  },\n  \"files\": [\n    \"lib\"\n  ],\n  \"homepage\": \"https://aureooms.github.io/js-persistent-stack\",\n  \"keywords\": [\n    \"data\",\n    \"persistent\",\n    \"stack\",\n    \"structures\"\n  ],\n  \"license\": \"AGPL-3.0\",\n  \"main\": \"lib/index.js\",\n  \"prettier\": {\n    \"trailingComma\": \"all\"\n  },\n  \"repository\": {\n    \"type\": \"git\",\n    \"url\": \"https://github.com/aureooms/js-persistent-stack\"\n  },\n  \"scripts\": {\n    \"build\": \"babel --delete-dir-on-start --env-name production src -d lib\",\n    \"cover\": \"nyc --reporter=lcov npm test\",\n    \"esdoc\": \"esdoc\",\n    \"prepare\": \"npm run build\",\n    \"release\": \"np\",\n    \"test\": \"ava\",\n    \"lint\": \"xo\",\n    \"dev\": \"npm run lint -- --fix && npm run cover -- -- -st --fail-fast\",\n    \"travis\": \"npm run lint && npm run cover\"\n  },\n  \"sideEffects\": false,\n  \"xo\": {\n    \"prettier\": true,\n    \"ignore\": [\n      \"lib\",\n      \"doc\"\n    ],\n    \"plugins\": [\n      \"unicorn\"\n    ],\n    \"rules\": {\n      \"unicorn/filename-case\": \"off\"\n    }\n  }\n}\n",
+    "longname": "/home/aureooms/dev/js/js-persistent-stack/package.json",
+    "name": "package.json",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manualIndex",
+    "globalIndex": false,
+    "content": null,
+    "longname": "",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/aureooms/dev/js/js-persistent-stack/doc/manual/overview.md",
+    "name": "./doc/manual/overview.md",
+    "content": "# Overview\n",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/aureooms/dev/js/js-persistent-stack/doc/manual/installation.md",
+    "name": "./doc/manual/installation.md",
+    "content": "# Installation\n\nCan be managed using\n[yarn](https://yarnpkg.com/en/docs),\n[npm](https://docs.npmjs.com),\nor [jspm](https://jspm.org/docs).\n\n\n### yarn\n```terminal\nyarn add @aureooms/js-persistent-stack\n```\n\n### npm\n```terminal\nnpm install @aureooms/js-persistent-stack --save\n```\n\n### jspm\n```terminal\njspm install npm:@aureooms/js-persistent-stack\n```\n",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/aureooms/dev/js/js-persistent-stack/doc/manual/usage.md",
+    "name": "./doc/manual/usage.md",
+    "content": "# Usage\n\n> :warning: The code requires `regeneratorRuntime` to be defined, for instance by importing\n> [regenerator-runtime/runtime](https://www.npmjs.com/package/regenerator-runtime).\n\nFirst, require the polyfill at the entry point of your application\n```js\nrequire( 'regenerator-runtime/runtime' );\n// or\nimport 'regenerator-runtime/runtime.js' ;\n```\n\nThen, import the library where needed\n```js\nconst persistentstack = require( '@aureooms/js-persistent-stack' ) ;\n// or\nimport * as persistentstack from '@aureooms/js-persistent-stack' ;\n```\n",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/aureooms/dev/js/js-persistent-stack/doc/manual/example.md",
+    "name": "./doc/manual/example.md",
+    "content": "# Examples\n\n> More examples in [the test files](https://github.com/aureooms/js-persistent-stack/tree/master/test/src).\n",
+    "static": true,
+    "access": "public"
+  }
+]
