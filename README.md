@@ -7,6 +7,13 @@ See [docs](https://aureooms.github.io/js-persistent-stack/index.html).
 > :warning: The code requires `regeneratorRuntime` to be defined, for instance by importing
 > [regenerator-runtime/runtime](https://www.npmjs.com/package/regenerator-runtime).
 
+```js
+import {empty, from, isEmpty, push, pop, peek, iter} from '@aureooms/js-persistent-stack';
+let stack = from('abc');
+let values = [...iter(stack)].join(''); // cba
+...
+```
+
 [![License](https://img.shields.io/github/license/aureooms/js-persistent-stack.svg)](https://raw.githubusercontent.com/aureooms/js-persistent-stack/master/LICENSE)
 [![Version](https://img.shields.io/npm/v/@aureooms/js-persistent-stack.svg)](https://www.npmjs.org/package/@aureooms/js-persistent-stack)
 [![Build](https://img.shields.io/travis/aureooms/js-persistent-stack/master.svg)](https://travis-ci.org/aureooms/js-persistent-stack/branches)
