@@ -76,7 +76,7 @@
     "url": "https://github.com/aureooms/js-persistent-stack/issues"
   },
   "dependencies": {
-    "@aureooms/js-error": "^4.0.1",
+    "@aureooms/js-error": "^5.0.0",
     "@aureooms/js-itertools": "^4.1.0"
   },
   "devDependencies": {
