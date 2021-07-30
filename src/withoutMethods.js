@@ -7,6 +7,7 @@ function Node(value, next) {
 }
 
 Node.prototype[Symbol.iterator] = function* () {
+	// eslint-disable-next-line unicorn/no-this-assignment
 	let current = this;
 	while (current !== null) {
 		yield current.value;

@@ -7,6 +7,7 @@ PersistentStack.prototype.push = function (value) {
 };
 
 PersistentStack.prototype[Symbol.iterator] = function* () {
+	// eslint-disable-next-line unicorn/no-this-assignment
 	let current = this;
 	while (!current.isEmpty()) {
 		yield current.peek();
