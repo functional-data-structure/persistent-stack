@@ -15,7 +15,7 @@
       "expectCount": 1,
       "actualCount": 0,
       "undocumentLines": [
-        8
+        5
       ]
     },
     "src/withMethods.js": {
