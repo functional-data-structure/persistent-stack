@@ -1,8 +1,8 @@
 {
-  "name": "@aureooms/js-persistent-stack",
+  "name": "@functional-data-structure/persistent-stack",
   "description": "Persistent stack data structures for JavaScript",
   "version": "0.0.0",
-  "author": "aureooms",
+  "author": "make-github-pseudonymous-again",
   "ava": {
     "files": [
       "test/src/**/*"
@@ -73,7 +73,7 @@
     }
   },
   "bugs": {
-    "url": "https://github.com/aureooms/js-persistent-stack/issues"
+    "url": "https://github.com/functional-data-structure/persistent-stack/issues"
   },
   "dependencies": {
     "@failure-abstraction/error": "^6.0.1",
@@ -108,7 +108,7 @@
   "files": [
     "lib"
   ],
-  "homepage": "https://aureooms.github.io/js-persistent-stack",
+  "homepage": "https://functional-data-structure.github.io/persistent-stack",
   "keywords": [
     "data",
     "persistent",
@@ -122,7 +122,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/aureooms/js-persistent-stack"
+    "url": "https://github.com/functional-data-structure/persistent-stack"
   },
   "scripts": {
     "build": "babel --delete-dir-on-start --env-name production src -d lib",

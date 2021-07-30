@@ -12,7 +12,7 @@ import 'regenerator-runtime/runtime.js' ;
 
 Then, import the library where needed
 ```js
-const persistentstack = require( '@aureooms/js-persistent-stack' ) ;
+const persistentstack = require( '@functional-data-structure/persistent-stack' ) ;
 // or
-import * as persistentstack from '@aureooms/js-persistent-stack' ;
+import * as persistentstack from '@functional-data-structure/persistent-stack' ;
 ```

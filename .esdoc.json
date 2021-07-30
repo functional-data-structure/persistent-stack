@@ -35,7 +35,7 @@
           "autoPrivate": true
         },
         "brand": {
-          "title": "@aureooms/js-persistent-stack"
+          "title": "@functional-data-structure/persistent-stack"
         },
         "test": {
           "type": "ava",

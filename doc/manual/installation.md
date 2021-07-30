@@ -8,15 +8,15 @@ or [jspm](https://jspm.org/docs).
 
 ### yarn
 ```terminal
-yarn add @aureooms/js-persistent-stack
+yarn add @functional-data-structure/persistent-stack
 ```
 
 ### npm
 ```terminal
-npm install @aureooms/js-persistent-stack --save
+npm install @functional-data-structure/persistent-stack --save
 ```
 
 ### jspm
 ```terminal
-jspm install npm:@aureooms/js-persistent-stack
+jspm install npm:@functional-data-structure/persistent-stack
 ```

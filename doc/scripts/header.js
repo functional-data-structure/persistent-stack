@@ -13,14 +13,14 @@ domReady(function(){
 
 	var projectname = document.createElement('a');
 	projectname.classList.add('project-name');
-	projectname.text = 'aureooms/js-persistent-stack';
+	projectname.text = 'functional-data-structure/persistent-stack';
 	projectname.href = './index.html' ;
 
 	var header = document.getElementsByTagName('header')[0] ;
 	header.insertBefore(projectname,header.firstChild);
 
 	var testlink = document.querySelector('header > a[data-ice="testLink"]') ;
-	testlink.href = 'https://coveralls.io/github/aureooms/js-persistent-stack' ;
+	testlink.href = 'https://coveralls.io/github/functional-data-structure/persistent-stack' ;
 	testlink.target = '_BLANK' ;
 
 	var searchBox = document.querySelector('.search-box');
