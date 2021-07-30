@@ -1,6 +1,6 @@
-import DONE_ITERATOR from './DONE_ITERATOR';
-import withMethods from './withMethods';
-import withoutMethods from './withoutMethods';
+import DONE_ITERATOR from './DONE_ITERATOR.js';
+import withMethods from './withMethods.js';
+import withoutMethods from './withoutMethods.js';
 
 /* eslint import/no-anonymous-default-export: [2, {"allowObject": true}] */
 export default withoutMethods;

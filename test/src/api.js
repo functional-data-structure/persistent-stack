@@ -2,7 +2,7 @@ import test from 'ava';
 
 import {product} from '@set-theory/cartesian-product';
 
-import {withMethods, withoutMethods} from '../../src';
+import {withMethods, withoutMethods} from '../../src/index.js';
 
 function macro(t, {empty, isEmpty, push, pop, peek}, n) {
 	const array = [];

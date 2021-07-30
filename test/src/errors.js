@@ -1,6 +1,6 @@
 import test from 'ava';
 
-import {withMethods, withoutMethods} from '../../src';
+import {withMethods, withoutMethods} from '../../src/index.js';
 
 function macro(t, {empty, peek, pop}) {
 	t.throws(() => peek(empty()), null, 'Cannot peek empty.');

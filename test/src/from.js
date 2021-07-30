@@ -5,7 +5,7 @@ import {range} from '@iterable-iterator/range';
 import {list} from '@iterable-iterator/list';
 import {reversed} from '@iterable-iterator/reversed';
 
-import {withMethods, withoutMethods} from '../../src';
+import {withMethods, withoutMethods} from '../../src/index.js';
 
 function macro(t, {from, iter, isEmpty}, n) {
 	const stack = from(range(n));
