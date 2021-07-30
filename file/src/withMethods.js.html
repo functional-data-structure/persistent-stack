@@ -3,12 +3,12 @@
 <head>
   <meta charset="utf-8">
   <base data-ice="baseUrl" href="../../">
-  <title data-ice="title">src/withMethods.js | @aureooms/js-persistent-stack</title>
+  <title data-ice="title">src/withMethods.js | @functional-data-structure/persistent-stack</title>
   <link type="text/css" rel="stylesheet" href="css/style.css">
   <link type="text/css" rel="stylesheet" href="css/prettify-tomorrow.css">
   <script src="script/prettify/prettify.js"></script>
   <script src="script/manual.js"></script>
-<link rel="stylesheet" href="./inject/css/0-style.css"><script src="./inject/script/0-header.js"></script><meta name="description" content="Persistent stack data structures for JavaScript"><meta property="twitter:card" content="summary"><meta property="twitter:title" content="@aureooms/js-persistent-stack"><meta property="twitter:description" content="Persistent stack data structures for JavaScript"></head>
+<link rel="stylesheet" href="./inject/css/0-style.css"><script src="./inject/script/0-header.js"></script><meta name="description" content="Persistent stack data structures for JavaScript"><meta property="twitter:card" content="summary"><meta property="twitter:title" content="@functional-data-structure/persistent-stack"><meta property="twitter:description" content="Persistent stack data structures for JavaScript"></head>
 <body class="layout-container" data-ice="rootContainer">
 
 <header>
@@ -24,7 +24,7 @@
   </span>
     <ul class="search-result"></ul>
   </div>
-<a style="position:relative; top:3px;" href="https://github.com/aureooms/js-persistent-stack"><img width="20px" src="./image/github.png"></a></header>
+<a style="position:relative; top:3px;" href="https://github.com/functional-data-structure/persistent-stack"><img width="20px" src="./image/github.png"></a></header>
 
 <nav class="navigation" data-ice="nav"><div>
   <ul>
@@ -37,8 +37,8 @@
 </nav>
 
 <div class="content" data-ice="content"><h1 data-ice="title">src/withMethods.js</h1>
-<pre class="source-code line-number raw-source-code"><code class="prettyprint linenums" data-ice="content">import {TypeError} from &apos;@aureooms/js-error&apos;;
-import {_reduce} from &apos;@aureooms/js-itertools&apos;;
+<pre class="source-code line-number raw-source-code"><code class="prettyprint linenums" data-ice="content">import {TypeError} from &apos;@failure-abstraction/error&apos;;
+import {_reduce} from &apos;@iterable-iterator/reduce&apos;;
 
 export default function PersistentStack() {}
 PersistentStack.prototype.push = function (value) {
@@ -46,6 +46,7 @@ PersistentStack.prototype.push = function (value) {
 };
 
 PersistentStack.prototype[Symbol.iterator] = function* () {
+	// eslint-disable-next-line unicorn/no-this-assignment
 	let current = this;
 	while (!current.isEmpty()) {
 		yield current.peek();

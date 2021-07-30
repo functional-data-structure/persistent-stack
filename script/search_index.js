@@ -1,20 +1,20 @@
 window.esdocSearchIndex = [
   [
-    "@aureooms/js-persistent-stack/src/done_iterator.js~done_iterator",
+    "@functional-data-structure/persistent-stack/src/done_iterator.js~done_iterator",
     "variable/index.html#static-variable-DONE_ITERATOR",
-    "<span>DONE_ITERATOR</span> <span class=\"search-result-import-path\">@aureooms/js-persistent-stack/src/DONE_ITERATOR.js</span>",
+    "<span>DONE_ITERATOR</span> <span class=\"search-result-import-path\">@functional-data-structure/persistent-stack/src/DONE_ITERATOR.js</span>",
     "variable"
   ],
   [
-    "@aureooms/js-persistent-stack/src/withmethods.js~persistentstack",
+    "@functional-data-structure/persistent-stack/src/withmethods.js~persistentstack",
     "function/index.html#static-function-PersistentStack",
-    "<span>PersistentStack</span> <span class=\"search-result-import-path\">@aureooms/js-persistent-stack/src/withMethods.js</span>",
+    "<span>PersistentStack</span> <span class=\"search-result-import-path\">@functional-data-structure/persistent-stack/src/withMethods.js</span>",
     "function"
   ],
   [
-    "@aureooms/js-persistent-stack/src/withoutmethods.js~withoutmethods",
+    "@functional-data-structure/persistent-stack/src/withoutmethods.js~withoutmethods",
     "variable/index.html#static-variable-withoutMethods",
-    "<span>withoutMethods</span> <span class=\"search-result-import-path\">@aureooms/js-persistent-stack/src/withoutMethods.js</span>",
+    "<span>withoutMethods</span> <span class=\"search-result-import-path\">@functional-data-structure/persistent-stack/src/withoutMethods.js</span>",
     "variable"
   ],
   [

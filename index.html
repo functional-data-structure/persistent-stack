@@ -3,12 +3,12 @@
 <head>
   <meta charset="utf-8">
   <base data-ice="baseUrl">
-  <title data-ice="title">Home | @aureooms/js-persistent-stack</title>
+  <title data-ice="title">Home | @functional-data-structure/persistent-stack</title>
   <link type="text/css" rel="stylesheet" href="css/style.css">
   <link type="text/css" rel="stylesheet" href="css/prettify-tomorrow.css">
   <script src="script/prettify/prettify.js"></script>
   <script src="script/manual.js"></script>
-<link rel="stylesheet" href="./inject/css/0-style.css"><script src="./inject/script/0-header.js"></script><meta name="description" content="Persistent stack data structures for JavaScript"><meta property="twitter:card" content="summary"><meta property="twitter:title" content="@aureooms/js-persistent-stack"><meta property="twitter:description" content="Persistent stack data structures for JavaScript"></head>
+<link rel="stylesheet" href="./inject/css/0-style.css"><script src="./inject/script/0-header.js"></script><meta name="description" content="Persistent stack data structures for JavaScript"><meta property="twitter:card" content="summary"><meta property="twitter:title" content="@functional-data-structure/persistent-stack"><meta property="twitter:description" content="Persistent stack data structures for JavaScript"></head>
 <body class="layout-container" data-ice="rootContainer">
 
 <header>
@@ -24,7 +24,7 @@
   </span>
     <ul class="search-result"></ul>
   </div>
-<a style="position:relative; top:3px;" href="https://github.com/aureooms/js-persistent-stack"><img width="20px" src="./image/github.png"></a></header>
+<a style="position:relative; top:3px;" href="https://github.com/functional-data-structure/persistent-stack"><img width="20px" src="./image/github.png"></a></header>
 
 <nav class="navigation" data-ice="nav"><div>
   <ul>
@@ -36,32 +36,30 @@
 </div>
 </nav>
 
-<div class="content" data-ice="content"><div data-ice="index" class="github-markdown"><h1 id="-a-href--https---aureooms-github-io-js-persistent-stack---aureooms-js-persistent-stack--a-"><a href="https://aureooms.github.io/js-persistent-stack">@aureooms/js-persistent-stack</a></h1><p>Persistent stack data structures for JavaScript.
-See <a href="https://aureooms.github.io/js-persistent-stack/index.html">docs</a>.</p>
+<div class="content" data-ice="content"><div data-ice="index" class="github-markdown"><h1 id="-a-href--https---functional-data-structure-github-io-persistent-stack---functional-data-structure-persistent-stack--a-"><a href="https://functional-data-structure.github.io/persistent-stack">@functional-data-structure/persistent-stack</a></h1><p>Persistent stack data structures for JavaScript.
+See <a href="https://functional-data-structure.github.io/persistent-stack/index.html">docs</a>.</p>
 <blockquote>
 <p>:warning: The code requires <code>regeneratorRuntime</code> to be defined, for instance by importing
 <a href="https://www.npmjs.com/package/regenerator-runtime">regenerator-runtime/runtime</a>.</p>
 </blockquote>
-<pre><code class="lang-js"><code class="source-code prettyprint">import {empty, from, isEmpty, push, pop, peek, iter} from &apos;@aureooms/js-persistent-stack&apos;;
+<pre><code class="lang-js"><code class="source-code prettyprint">import {empty, from, isEmpty, push, pop, peek, iter} from &apos;@functional-data-structure/persistent-stack&apos;;
 let stack = from(&apos;abc&apos;);
 let values = [...iter(stack)].join(&apos;&apos;); // cba
 ...</code>
 </code></pre>
-<p><a href="https://raw.githubusercontent.com/aureooms/js-persistent-stack/master/LICENSE"><img src="https://img.shields.io/github/license/aureooms/js-persistent-stack.svg" alt="License"></a>
-<a href="https://www.npmjs.org/package/@aureooms/js-persistent-stack"><img src="https://img.shields.io/npm/v/@aureooms/js-persistent-stack.svg" alt="Version"></a>
-<a href="https://travis-ci.org/aureooms/js-persistent-stack/branches"><img src="https://img.shields.io/travis/aureooms/js-persistent-stack/master.svg" alt="Build"></a>
-<a href="https://david-dm.org/aureooms/js-persistent-stack"><img src="https://img.shields.io/david/aureooms/js-persistent-stack.svg" alt="Dependencies"></a>
-<a href="https://david-dm.org/aureooms/js-persistent-stack?type=dev"><img src="https://img.shields.io/david/dev/aureooms/js-persistent-stack.svg" alt="Dev dependencies"></a>
-<a href="https://github.com/aureooms/js-persistent-stack/issues"><img src="https://img.shields.io/github/issues/aureooms/js-persistent-stack.svg" alt="GitHub issues"></a>
-<a href="https://www.npmjs.org/package/@aureooms/js-persistent-stack"><img src="https://img.shields.io/npm/dm/@aureooms/js-persistent-stack.svg" alt="Downloads"></a></p>
-<p><a href="https://codeclimate.com/github/aureooms/js-persistent-stack/issues"><img src="https://img.shields.io/codeclimate/issues/aureooms/js-persistent-stack.svg" alt="Code issues"></a>
-<a href="https://codeclimate.com/github/aureooms/js-persistent-stack/trends/churn"><img src="https://img.shields.io/codeclimate/maintainability/aureooms/js-persistent-stack.svg" alt="Code maintainability"></a>
-<a href="https://codecov.io/gh/aureooms/js-persistent-stack"><img src="https://img.shields.io/codecov/c/gh/aureooms/js-persistent-stack/master.svg" alt="Code coverage (cov)"></a>
-<!--[![Code coverage (alls)](https://img.shields.io/coveralls/github/aureooms/js-persistent-stack/master.svg)](https://coveralls.io/r/aureooms/js-persistent-stack)-->
-<!--[![Code coverage (clim)](https://img.shields.io/codeclimate/coverage/aureooms/js-persistent-stack.svg)](https://codeclimate.com/github/aureooms/js-persistent-stack/trends/test_coverage_new_code)-->
-<a href="https://codeclimate.com/github/aureooms/js-persistent-stack/trends/technical_debt"><img src="https://img.shields.io/codeclimate/tech-debt/aureooms/js-persistent-stack.svg" alt="Code technical debt"></a>
-<a href="https://aureooms.github.io/js-persistent-stack/source.html"><img src="https://aureooms.github.io/js-persistent-stack/badge.svg" alt="Documentation"></a>
-<a href="https://bundlephobia.com/result?p=@aureooms/js-persistent-stack"><img src="https://img.shields.io/bundlephobia/minzip/@aureooms/js-persistent-stack" alt="Package size"></a></p>
+<p><a href="https://raw.githubusercontent.com/functional-data-structure/persistent-stack/main/LICENSE"><img src="https://img.shields.io/github/license/functional-data-structure/persistent-stack.svg" alt="License"></a>
+<a href="https://www.npmjs.org/package/@functional-data-structure/persistent-stack"><img src="https://img.shields.io/npm/v/@functional-data-structure/persistent-stack.svg" alt="Version"></a>
+<a href="https://github.com/functional-data-structure/persistent-stack/actions/workflows/ci:test.yml?query=branch:main"><img src="https://img.shields.io/github/workflow/status/functional-data-structure/persistent-stack/ci:test?event=push&amp;label=tests" alt="Tests"></a>
+<a href="https://david-dm.org/functional-data-structure/persistent-stack"><img src="https://img.shields.io/david/functional-data-structure/persistent-stack.svg" alt="Dependencies"></a>
+<a href="https://david-dm.org/functional-data-structure/persistent-stack?type=dev"><img src="https://img.shields.io/david/dev/functional-data-structure/persistent-stack.svg" alt="Dev dependencies"></a>
+<a href="https://github.com/functional-data-structure/persistent-stack/issues"><img src="https://img.shields.io/github/issues/functional-data-structure/persistent-stack.svg" alt="GitHub issues"></a>
+<a href="https://www.npmjs.org/package/@functional-data-structure/persistent-stack"><img src="https://img.shields.io/npm/dm/@functional-data-structure/persistent-stack.svg" alt="Downloads"></a></p>
+<p><a href="https://codeclimate.com/github/functional-data-structure/persistent-stack/issues"><img src="https://img.shields.io/codeclimate/issues/functional-data-structure/persistent-stack.svg" alt="Code issues"></a>
+<a href="https://codeclimate.com/github/functional-data-structure/persistent-stack/trends/churn"><img src="https://img.shields.io/codeclimate/maintainability/functional-data-structure/persistent-stack.svg" alt="Code maintainability"></a>
+<a href="https://codecov.io/gh/functional-data-structure/persistent-stack"><img src="https://img.shields.io/codecov/c/gh/functional-data-structure/persistent-stack/main.svg" alt="Code coverage (cov)"></a>
+<a href="https://codeclimate.com/github/functional-data-structure/persistent-stack/trends/technical_debt"><img src="https://img.shields.io/codeclimate/tech-debt/functional-data-structure/persistent-stack.svg" alt="Code technical debt"></a>
+<a href="https://functional-data-structure.github.io/persistent-stack/source.html"><img src="https://functional-data-structure.github.io/persistent-stack/badge.svg" alt="Documentation"></a>
+<a href="https://bundlephobia.com/result?p=@functional-data-structure/persistent-stack"><img src="https://img.shields.io/bundlephobia/minzip/@functional-data-structure/persistent-stack" alt="Package size"></a></p>
 </div>
 </div>
 
