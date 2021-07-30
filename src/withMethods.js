@@ -1,5 +1,5 @@
-import {TypeError} from '@aureooms/js-error';
-import {_reduce} from '@aureooms/js-itertools';
+import {TypeError} from '@failure-abstraction/error';
+import {_reduce} from '@iterable-iterator/reduce';
 
 export default function PersistentStack() {}
 PersistentStack.prototype.push = function (value) {

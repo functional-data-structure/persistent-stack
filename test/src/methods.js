@@ -1,7 +1,7 @@
 import test from 'ava';
 
-import {TypeError} from '@aureooms/js-error';
-import {product} from '@aureooms/js-itertools';
+import {TypeError} from '@failure-abstraction/error';
+import {product} from '@set-theory/cartesian-product';
 
 import {withMethods} from '../../src';
 

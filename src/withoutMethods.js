@@ -1,4 +1,4 @@
-import {_reduce} from '@aureooms/js-itertools';
+import {_reduce} from '@iterable-iterator/reduce';
 import DONE_ITERATOR from './DONE_ITERATOR';
 
 function Node(value, next) {

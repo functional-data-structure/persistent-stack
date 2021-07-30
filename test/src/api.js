@@ -1,6 +1,6 @@
 import test from 'ava';
 
-import {product} from '@aureooms/js-itertools';
+import {product} from '@set-theory/cartesian-product';
 
 import {withMethods, withoutMethods} from '../../src';
 

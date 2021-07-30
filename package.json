@@ -76,14 +76,19 @@
     "url": "https://github.com/aureooms/js-persistent-stack/issues"
   },
   "dependencies": {
-    "@aureooms/js-error": "^5.0.0",
-    "@aureooms/js-itertools": "^5.0.0"
+    "@failure-abstraction/error": "^6.0.1",
+    "@iterable-iterator/reduce": "^1.0.1"
   },
   "devDependencies": {
     "@babel/cli": "7.13.10",
     "@babel/core": "7.13.10",
     "@babel/preset-env": "7.13.10",
     "@babel/register": "7.13.8",
+    "@iterable-iterator/list": "^1.0.1",
+    "@iterable-iterator/range": "^2.0.1",
+    "@iterable-iterator/reversed": "^1.0.0",
+    "@iterable-iterator/zip": "^1.0.1",
+    "@set-theory/cartesian-product": "^2.0.1",
     "ava": "3.15.0",
     "babel-plugin-transform-remove-console": "6.9.4",
     "babel-plugin-unassert": "3.0.1",
