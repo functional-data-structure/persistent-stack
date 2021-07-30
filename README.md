@@ -1,3 +1,4 @@
+:icecream:
 [@functional-data-structure/persistent-stack](https://functional-data-structure.github.io/persistent-stack)
 ==
 
