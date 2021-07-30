@@ -1300,7 +1300,7 @@
   resolved "https://registry.yarnpkg.com/@iterable-iterator/iter/-/iter-1.0.1.tgz#11149acef0d28b689e0b998dc478113eda81871d"
   integrity sha512-/C/Ciq69we9C0wvqx0rOdnpXAoSW+UnyIV/ZQrUYDzmtguvUQ4HjiIPcU2Csdh705VS6TMkUhoaBHIGh44V3OA==
 
-"@iterable-iterator/list@^1.0.0", "@iterable-iterator/list@^1.0.1":
+"@iterable-iterator/list@1.0.1", "@iterable-iterator/list@^1.0.0", "@iterable-iterator/list@^1.0.1":
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/@iterable-iterator/list/-/list-1.0.1.tgz#e84fd841d7d58c2ad6d0c026f0612c8228dc97f5"
   integrity sha512-234a2cf0a0YhD1Ofb3F0xSjXDkqDK1xCiLnXoMUt/DWAt/odAvJToaxEFMemiKlAUvqF6E8MSi2v2UvlIOpBUA==
@@ -1317,7 +1317,7 @@
   dependencies:
     "@failure-abstraction/error" "^6.0.1"
 
-"@iterable-iterator/range@^2.0.1":
+"@iterable-iterator/range@2.0.1":
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/@iterable-iterator/range/-/range-2.0.1.tgz#3d566aa26e3df496f2ba18a2f67de4c65518e81c"
   integrity sha512-JPkPH/u4AQxWyqXDOqHk4DZeQJANv67cXuiE0DLC0FTaRgExQASlbhPZJo+JVxZRXW2EOBXSzdKdJQe5w9XghA==
@@ -1334,12 +1334,12 @@
   resolved "https://registry.yarnpkg.com/@iterable-iterator/repeat/-/repeat-1.0.1.tgz#7724b993a80c014483c4f0d37c503ee460ac7b6d"
   integrity sha512-xwkIHYQNvxQvA8nMYrev41iCmokXosojMpHEfME8Q8ubzEQlsYS8rSqiydgMYPu/lPg1MyYRVzWazFDAShTwtg==
 
-"@iterable-iterator/reversed@^1.0.0":
+"@iterable-iterator/reversed@1.0.0", "@iterable-iterator/reversed@^1.0.0":
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@iterable-iterator/reversed/-/reversed-1.0.0.tgz#6e656396b4453e4650c081d571fa4ba7ab3134e8"
   integrity sha512-nCy0OINBy6h1dcj75twbIW0oA5KhJ7Aweif/8kdUdAR86e5gb/byedt0LL72cjHB75VRbQY06f9WxZc8d7uPYA==
 
-"@iterable-iterator/zip@^1.0.1":
+"@iterable-iterator/zip@1.0.1":
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/@iterable-iterator/zip/-/zip-1.0.1.tgz#02bd6241262b6f8f4d041aca187e9ee101b7a623"
   integrity sha512-GRmwFuNRbj9ZQ6MAThCu46sZjZk/sPPxHqy2OSMXQ7tfcTGDEO2tAM+fi7WZOlAFRen9UIsS2Q1wtQ8tFPhgnQ==
@@ -1440,7 +1440,7 @@
   dependencies:
     any-observable "^0.3.0"
 
-"@set-theory/cartesian-product@^2.0.1":
+"@set-theory/cartesian-product@2.0.1":
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/@set-theory/cartesian-product/-/cartesian-product-2.0.1.tgz#5b80994ae53e4c80e369c78cb369845de18d229c"
   integrity sha512-ifjwAGPY52Dvmtm1jQV+6jEdHlKg9nMCnogb96YtbckUN9uESDK8slMRy0nQHFGf61i1kjVNGKMzOrGzFZJZkw==
