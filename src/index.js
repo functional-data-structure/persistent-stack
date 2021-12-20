@@ -1,18 +1,8 @@
-import DONE_ITERATOR from './DONE_ITERATOR.js';
-import withMethods from './withMethods.js';
 import withoutMethods from './withoutMethods.js';
 
 const {empty, from, isEmpty, push, peek, pop, iter} = withoutMethods;
 
-export {
-	DONE_ITERATOR,
-	withMethods,
-	withoutMethods,
-	empty,
-	from,
-	isEmpty,
-	push,
-	peek,
-	pop,
-	iter,
-};
+export {empty, from, isEmpty, push, peek, pop, iter};
+export {default as DONE_ITERATOR} from './DONE_ITERATOR.js';
+export {default as withoutMethods} from './withoutMethods.js';
+export {default as withMethods} from './withMethods.js';
