@@ -11,12 +11,12 @@ function macro(t, {empty, isEmpty, push, pop, peek}, n) {
 	t.true(isEmpty(stack), 'At the begining, stack is empty.');
 	t.throws(
 		() => peek(stack),
-		null,
+		undefined,
 		'At the beginning, calling peek on empty stack throws.',
 	);
 	t.throws(
 		() => pop(stack),
-		null,
+		undefined,
 		'At the beginning, calling pop on empty stack throws.',
 	);
 
@@ -41,12 +41,12 @@ function macro(t, {empty, isEmpty, push, pop, peek}, n) {
 	t.true(isEmpty(stack), 'At the end, stack is empty.');
 	t.throws(
 		() => peek(stack),
-		null,
+		undefined,
 		'At the end, calling peek on empty stack throws.',
 	);
 	t.throws(
 		() => pop(stack),
-		null,
+		undefined,
 		'At the end, calling pop on empty stack throws.',
 	);
 }
