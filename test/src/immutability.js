@@ -4,7 +4,7 @@ import {product} from '@set-theory/cartesian-product';
 import {list} from '@iterable-iterator/list';
 import {zip, enumerate} from '@iterable-iterator/zip';
 
-import {withMethods, withoutMethods} from '../../src/index.js';
+import {withMethods, withoutMethods} from '#module';
 
 function macro(t, {empty, push, pop, iter}, n) {
 	const array = [];

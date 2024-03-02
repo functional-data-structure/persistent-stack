@@ -3,7 +3,7 @@ import test from 'ava';
 import {TypeError} from '@failure-abstraction/error';
 import {product} from '@set-theory/cartesian-product';
 
-import {withMethods} from '../../src/index.js';
+import {withMethods} from '#module';
 
 function macro(t, {empty}, n) {
 	const array = [];

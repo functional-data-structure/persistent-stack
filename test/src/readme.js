@@ -1,6 +1,6 @@
 import test from 'ava';
 
-import {from, iter} from '../../src/index.js';
+import {from, iter} from '#module';
 
 test('readme', (t) => {
 	const stack = from('abc');

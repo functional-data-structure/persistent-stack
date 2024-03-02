@@ -1,6 +1,6 @@
 import test from 'ava';
 
-import {empty, from, isEmpty, push, pop, peek, iter} from '../../src/index.js';
+import {empty, from, isEmpty, push, pop, peek, iter} from '#module';
 
 test('can import empty', (t) => {
 	t.true(empty !== undefined);
