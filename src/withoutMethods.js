@@ -1,4 +1,5 @@
 import {_reduce} from '@iterable-iterator/reduce';
+
 import DONE_ITERATOR from './DONE_ITERATOR.js';
 
 function Node(value, next) {

@@ -1,8 +1,8 @@
 import test from 'ava';
 
-import {product} from '@set-theory/cartesian-product';
 import {list} from '@iterable-iterator/list';
 import {zip, enumerate} from '@iterable-iterator/zip';
+import {product} from '@set-theory/cartesian-product';
 
 import {withMethods, withoutMethods} from '#module';
 

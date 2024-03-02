@@ -1,9 +1,9 @@
 import test from 'ava';
 
-import {product} from '@set-theory/cartesian-product';
-import {range} from '@iterable-iterator/range';
 import {list} from '@iterable-iterator/list';
+import {range} from '@iterable-iterator/range';
 import {reversed} from '@iterable-iterator/reversed';
+import {product} from '@set-theory/cartesian-product';
 
 import {withMethods, withoutMethods} from '#module';
 
